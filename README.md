@@ -1,4 +1,4 @@
-# Sand Simulation - README
+# Sand Simulation
 
 ![Sand Simulation Demo](demo.gif)
 *(Пример работы симулятора)*
