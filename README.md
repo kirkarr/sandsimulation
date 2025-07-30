@@ -41,7 +41,7 @@ gcc particles.c -o particles -lSDL2
 
 ### Windows
 
-1. Установите [SDL2](https://www.libsdl.org/download-2.0.php)
+1. Установите [SDL2](https://github.com/libsdl-org/SDL/releases)
 2. Добавьте пути к заголовочным файлам и библиотекам в настройки компилятора
 3. Скомпилируйте проект:
 ```bash
