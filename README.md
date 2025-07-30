@@ -1,6 +1,7 @@
 # Sand Simulation
 
-![Sand Simulation Demo](demo.gif) *(Пример работы симулятора)*
+![Sand Simulation Demo](demo.gif)
+*(Пример работы симулятора)*
 
 ## Описание проекта
 
